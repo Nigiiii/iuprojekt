@@ -1,0 +1,4 @@
+model,umass_coherence
+NMF auf TF-IDF,-1.079
+NMF auf Count,-1.506
+LDA auf Count,-1.295

@@ -1,0 +1,6 @@
+topic_tfidf,best_match_count,jaccard,shared_words
+1,3,0.54,"bureau, credit, credit report, information, inquiry, report, reporting"
+2,2,0.54,"bank, call, loan, payment, time, told, would"
+3,4,0.11,"account, report"
+4,4,0.25,"account, balance, dispute, opened"
+5,4,0.05,dispute

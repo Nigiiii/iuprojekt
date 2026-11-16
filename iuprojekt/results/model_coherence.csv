@@ -1,4 +1,0 @@
-model,umass_coherence,cv_coherence
-NMF auf TF-IDF,-1.278,0.697
-NMF auf Count,-1.667,0.702
-LDA auf Count,-1.382,0.55

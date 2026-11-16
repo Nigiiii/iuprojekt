@@ -1,0 +1,9 @@
+topic_tfidf,best_match_count,jaccard,shared_words
+1,4,0.25,"account, opened, please, report"
+2,2,0.67,"back, bank, call, called, card, said, told, would"
+3,1,0.25,"block, identity, information, theft"
+4,4,0.18,"account, balance, opened"
+5,6,0.05,day
+6,1,0.18,"agency, consumer, reporting"
+7,6,0.54,"due, late, loan, month, mortgage, paid, payment"
+8,3,0.54,"bureau, credit, credit report, inaccurate, information, report, reporting"
